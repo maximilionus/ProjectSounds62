@@ -5,7 +5,11 @@ class CfgPatches
 		name = "Project Sounds62 - Footsteps Config";
 		author = "MAXIMILI";
 		requiredVersion = 1.0; 
-		requiredAddons[] = {"ps62_data"};
+		requiredAddons[] =
+		{
+			"DZ_Sounds_Effects",
+			"ps62_data"
+		};
 		units[] = {};
 		weapons[] = {};
 	};

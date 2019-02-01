@@ -46,6 +46,17 @@ class walkErc_asphalt_ext_asphalt_ext_walkErc_Char_SoundShader: baseCharacter_So
 	volume="(1 - bare) * 0.2";
 	frequency=1;
 };
+class walkErc_asphalt_ext_boots_shoes_walkErc_Char_SoundShader: walkErc_asphalt_ext_asphalt_ext_walkErc_Char_SoundShader
+{
+	volume="boots * 0.2";
+	frequency=1;
+};
+class walkErc_asphalt_ext_sneakers_shoes_walkErc_Char_SoundShader: walkErc_asphalt_ext_asphalt_ext_walkErc_Char_SoundShader
+{
+	volume="sneakers * 0.2";
+	frequency=1.1;
+};
+
 class runErc_asphalt_ext_asphalt_ext_runErc_Char_SoundShader: baseCharacter_SoundShader
 {
 	samples[]=
