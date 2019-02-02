@@ -63,7 +63,7 @@ class CfgSoundShaders
 				1
 			}
 		};
-		volume=4.025;
+		volume=0.425;
 		frequency=0.94999999;
 	};
 	class RifleOnBack_walkErc_R_SoundShader: baseCharacter_SoundShader
@@ -111,7 +111,7 @@ class CfgSoundShaders
 				1
 			}
 		};
-		volume=4.02;
+		volume=0.42;
 		frequency=0.94999999;
 	};
 	class RifleOnBack_walkCro_L_SoundShader: baseCharacter_SoundShader
@@ -159,7 +159,7 @@ class CfgSoundShaders
 				1
 			}
 		};
-		volume=4.022;
+		volume=0.422;
 		frequency=0.89999998;
 	};
 	class RifleOnBack_walkCro_R_SoundShader: baseCharacter_SoundShader
@@ -207,7 +207,7 @@ class CfgSoundShaders
 				1
 			}
 		};
-		volume=4.02;
+		volume=0.42;
 		frequency=0.89999998;
 	};
 	class RifleOnBack_runErc_L_SoundShader: baseCharacter_SoundShader
@@ -255,7 +255,7 @@ class CfgSoundShaders
 				1
 			}
 		};
-		volume=4.029999999;
+		volume=0.429999999;
 		frequency=1;
 	};
 	class RifleOnBack_runErc_R_SoundShader: baseCharacter_SoundShader
@@ -303,7 +303,7 @@ class CfgSoundShaders
 				1
 			}
 		};
-		volume=4.029999999;
+		volume=0.429999999;
 		frequency=1;
 	};
 	class RifleOnBack_runCro_L_SoundShader: baseCharacter_SoundShader
@@ -351,7 +351,7 @@ class CfgSoundShaders
 				1
 			}
 		};
-		volume=4.022;
+		volume=0.422;
 		frequency=0.89999998;
 	};
 	class RifleOnBack_runCro_R_SoundShader: baseCharacter_SoundShader
@@ -399,7 +399,7 @@ class CfgSoundShaders
 				1
 			}
 		};
-		volume=4.022;
+		volume=0.422;
 		frequency=0.89999998;
 	};
 	class RifleOnBack_sprintErc_L_SoundShader: baseCharacter_SoundShader
@@ -447,7 +447,7 @@ class CfgSoundShaders
 				1
 			}
 		};
-		volume=4.050000001;
+		volume=0.450000001;
 		frequency=1.1;
 	};
 	class RifleOnBack_sprintErc_R_SoundShader: baseCharacter_SoundShader
@@ -495,7 +495,7 @@ class CfgSoundShaders
 				1
 			}
 		};
-		volume=4.050000001;
+		volume=0.450000001;
 		frequency=1;
 	};
 	class RifleOnBack_metal_sprintErc_L_SoundShader: baseCharacter_SoundShader
@@ -543,7 +543,7 @@ class CfgSoundShaders
 				1
 			}
 		};
-		volume=4.1;
+		volume=0.4;
 		frequency=1;
 	};
 	class RifleOnBack_metal_sprintErc_R_SoundShader: baseCharacter_SoundShader
@@ -591,7 +591,7 @@ class CfgSoundShaders
 				1
 			}
 		};
-		volume=4.1;
+		volume=0.4;
 		frequency=1;
 	};
 	class RifleOnBack_walkProne_L_SoundShader: baseCharacter_SoundShader
@@ -639,7 +639,7 @@ class CfgSoundShaders
 				1
 			}
 		};
-		volume=4.029999999;
+		volume=0.429999999;
 		frequency=0.89999998;
 	};
 	class RifleOnBack_walkProne_R_SoundShader: baseCharacter_SoundShader
@@ -687,7 +687,7 @@ class CfgSoundShaders
 				1
 			}
 		};
-		volume=4.029999999;
+		volume=0.429999999;
 		frequency=0.89999998;
 	};
 };
