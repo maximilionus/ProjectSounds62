@@ -4,42 +4,42 @@ class walkErc_asphalt_ext_asphalt_ext_walkErc_Char_SoundShader: baseCharacter_So
 	{
 		
 		{
-			"ProjectSounds62\ps62_data\sounds\characters\movement\boots\road\road_walk_1",
+			"ProjectSounds62\ps62_data\sounds\characters\movement\road\road_walk_1",
 			1
 		},
 		
 		{
-			"ProjectSounds62\ps62_data\sounds\characters\movement\boots\road\road_walk_2",
+			"ProjectSounds62\ps62_data\sounds\characters\movement\road\road_walk_2",
 			1
 		},
 		
 		{
-			"ProjectSounds62\ps62_data\sounds\characters\movement\boots\road\road_walk_3",
+			"ProjectSounds62\ps62_data\sounds\characters\movement\road\road_walk_3",
 			1
 		},
 		
 		{
-			"ProjectSounds62\ps62_data\sounds\characters\movement\boots\road\road_walk_4",
+			"ProjectSounds62\ps62_data\sounds\characters\movement\road\road_walk_4",
 			1
 		},
 		
 		{
-			"ProjectSounds62\ps62_data\sounds\characters\movement\boots\road\road_walk_5",
+			"ProjectSounds62\ps62_data\sounds\characters\movement\road\road_walk_5",
 			1
 		},
 		
 		{
-			"ProjectSounds62\ps62_data\sounds\characters\movement\boots\road\road_walk_6",
+			"ProjectSounds62\ps62_data\sounds\characters\movement\road\road_walk_6",
 			1
 		},
 		
 		{
-			"ProjectSounds62\ps62_data\sounds\characters\movement\boots\road\road_walk_7",
+			"ProjectSounds62\ps62_data\sounds\characters\movement\road\road_walk_7",
 			1
 		},
 		
 		{
-			"ProjectSounds62\ps62_data\sounds\characters\movement\boots\road\road_walk_8",
+			"ProjectSounds62\ps62_data\sounds\characters\movement\road\road_walk_8",
 			1
 		}
 	};
@@ -63,42 +63,42 @@ class runErc_asphalt_ext_asphalt_ext_runErc_Char_SoundShader: baseCharacter_Soun
 	{
 		
 		{
-			"ProjectSounds62\ps62_data\sounds\characters\movement\boots\road\road_run_1",
+			"ProjectSounds62\ps62_data\sounds\characters\movement\road\road_run_1",
 			1
 		},
 		
 		{
-			"ProjectSounds62\ps62_data\sounds\characters\movement\boots\road\road_run_2",
+			"ProjectSounds62\ps62_data\sounds\characters\movement\road\road_run_2",
 			1
 		},
 		
 		{
-			"ProjectSounds62\ps62_data\sounds\characters\movement\boots\road\road_run_3",
+			"ProjectSounds62\ps62_data\sounds\characters\movement\road\road_run_3",
 			1
 		},
 		
 		{
-			"ProjectSounds62\ps62_data\sounds\characters\movement\boots\road\road_run_4",
+			"ProjectSounds62\ps62_data\sounds\characters\movement\road\road_run_4",
 			1
 		},
 		
 		{
-			"ProjectSounds62\ps62_data\sounds\characters\movement\boots\road\road_run_5",
+			"ProjectSounds62\ps62_data\sounds\characters\movement\road\road_run_5",
 			1
 		},
 		
 		{
-			"ProjectSounds62\ps62_data\sounds\characters\movement\boots\road\road_run_6",
+			"ProjectSounds62\ps62_data\sounds\characters\movement\road\road_run_6",
 			1
 		},
 		
 		{
-			"ProjectSounds62\ps62_data\sounds\characters\movement\boots\road\road_run_7",
+			"ProjectSounds62\ps62_data\sounds\characters\movement\road\road_run_7",
 			1
 		},
 		
 		{
-			"ProjectSounds62\ps62_data\sounds\characters\movement\boots\road\road_run_8",
+			"ProjectSounds62\ps62_data\sounds\characters\movement\road\road_run_8",
 			1
 		}
 	};
@@ -111,42 +111,42 @@ class sprintErc_asphalt_ext_asphalt_ext_sprintErc_Char_SoundShader: baseCharacte
 	{
 		
 		{
-			"ProjectSounds62\ps62_data\sounds\characters\movement\boots\road\road_sprint_1",
+			"ProjectSounds62\ps62_data\sounds\characters\movement\road\road_sprint_1",
 			1
 		},
 		
 		{
-			"ProjectSounds62\ps62_data\sounds\characters\movement\boots\road\road_sprint_2",
+			"ProjectSounds62\ps62_data\sounds\characters\movement\road\road_sprint_2",
 			1
 		},
 		
 		{
-			"ProjectSounds62\ps62_data\sounds\characters\movement\boots\road\road_sprint_3",
+			"ProjectSounds62\ps62_data\sounds\characters\movement\road\road_sprint_3",
 			1
 		},
 		
 		{
-			"ProjectSounds62\ps62_data\sounds\characters\movement\boots\road\road_sprint_4",
+			"ProjectSounds62\ps62_data\sounds\characters\movement\road\road_sprint_4",
 			1
 		},
 		
 		{
-			"ProjectSounds62\ps62_data\sounds\characters\movement\boots\road\road_sprint_5",
+			"ProjectSounds62\ps62_data\sounds\characters\movement\road\road_sprint_5",
 			1
 		},
 		
 		{
-			"ProjectSounds62\ps62_data\sounds\characters\movement\boots\road\road_sprint_6",
+			"ProjectSounds62\ps62_data\sounds\characters\movement\road\road_sprint_6",
 			1
 		},
 		
 		{
-			"ProjectSounds62\ps62_data\sounds\characters\movement\boots\road\road_sprint_7",
+			"ProjectSounds62\ps62_data\sounds\characters\movement\road\road_sprint_7",
 			1
 		},
 		
 		{
-			"ProjectSounds62\ps62_data\sounds\characters\movement\boots\road\road_sprint_8",
+			"ProjectSounds62\ps62_data\sounds\characters\movement\road\road_sprint_8",
 			1
 		}
 	};
